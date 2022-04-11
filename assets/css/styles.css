@@ -1,0 +1,25 @@
+#image-style {
+
+  float:left;
+
+  width:300px;
+  height:300px;
+
+  margin-top:25px;
+  margin-right:25px;
+  margin-bottom:25px;
+}
+
+#paragraph-top {
+  margin-top:75px;
+}
+
+.image-nav {
+  width:140px;
+  height:140px;
+}
+
+.image-sav {
+  width:500px;
+  height:500px;
+}
